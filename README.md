@@ -68,11 +68,3 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local.
     Abre [http://localhost:5173](http://localhost:5173) (o el puerto que indique Vite) en tu navegador para ver la aplicación.
 
 ---
-
-## 📸 Capturas de Pantalla
-
-*Aquí se mostrará una captura de pantalla de la aplicación en funcionamiento.*
-
-![App Screenshot](URL_DE_LA_CAPTURA_DE_PANTALLA_AQUI)
-
----
