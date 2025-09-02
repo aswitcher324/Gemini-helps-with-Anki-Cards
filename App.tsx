@@ -13,18 +13,14 @@ function App() {
           </h1>
         </div>
         <p className="text-slate-400 text-lg">
-          Transforma cualquier concepto en una tarjeta de estudio detallada al
-          instante.
+          Transforma cualquier concepto en una tarjeta de estudio detallada al instante.
         </p>
       </header>
       <main className="w-full flex-grow">
         <CardGenerator />
       </main>
-      <footer className="w-full max-w-5xl mx-auto mt-8 text-center text-slate-500 text-sm">
-        <p>
-          Creado con React, Tailwind CSS y la API de Gemini. Diseñado para un
-          aprendizaje eficiente.
-        </p>
+       <footer className="w-full max-w-5xl mx-auto mt-8 text-center text-slate-500 text-sm">
+        <p>Creado con React, Tailwind CSS y la API de Gemini. Diseñado para un aprendizaje eficiente.</p>
       </footer>
     </div>
   );
