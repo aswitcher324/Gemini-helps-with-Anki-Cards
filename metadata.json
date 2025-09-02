@@ -1,0 +1,6 @@
+{
+  "name": "2.0 Generador de Tarjetas Anki con IA y con imágenes",
+  "description": "Una aplicación web que utiliza la IA de Gemini para generar tarjetas de estudio detalladas (estilo Anki) a partir de un único concepto o tema. Ideal para estudiantes y aprendices que buscan optimizar su proceso de estudio.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
